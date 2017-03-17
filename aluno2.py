@@ -1,6 +1,3 @@
-lista = [1,2,3,4,5,10,55,2,8,7,6,100,200,]
-
-
 def Maior(lista):
     if len(lista) == 0:
         return 0
